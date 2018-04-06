@@ -1,0 +1,7 @@
+- Before running, run the following command on the command line:
+	pip install pyenchant
+	This is needed to check if a string is a word.
+- To run the solver, type the following command on the command line:
+	python HangmanSolver.py
+- Press ctrl+C to exit the program.
+- Accuracy of each game is shown after the game ends.
